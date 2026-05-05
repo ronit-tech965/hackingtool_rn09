@@ -508,9 +508,6 @@ pip install -r requirements.txt
   <img alt="HackingTool Star History Chart" src="https://api.star-history.com/svg?repos=Z4nzu/hackingtool&type=Date" />
 </picture>
 
----
-
-## Support
 
 If this project helps you, consider buying me a coffee:
 
